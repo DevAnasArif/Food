@@ -12,6 +12,13 @@
 }
 .bg-blck{
     background-color:gray ;
+    position: sticky;
+    top: 0px;
+    z-index:3;
+}
+.blcolor img{
+  width :60px;
+  color: gray;
 }
 .navbars-item{
     color: white !important;
